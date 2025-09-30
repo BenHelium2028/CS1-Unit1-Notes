@@ -1,1 +1,23 @@
+/*select by tag type*/
+body {
+background: plum;
+color: rgb(44, 44, 88);
+font-family: Papyrus, fantasy;
+}
 
+/*Sellect by id name*/
+#mainParagraph {
+    background-color: salmon;
+}
+
+/*Sellect by class name*/
+.funnyBits {
+    border-color: blanchedalmond;
+    border-style: inset;
+    border-width: 10px;
+}
+
+.goofyAhh {
+    transform: skewX(20deg);
+    color: black;
+}
